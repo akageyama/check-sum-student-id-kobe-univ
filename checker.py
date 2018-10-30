@@ -1,6 +1,12 @@
 #!/usr/bin/env python
 
 '''
+    Check sum checker for student ID of Kobe Univ.
+    by Akira Kageyama, Kobe Univ.
+    on 2018.10.30
+
+    ---
+
     A student num is 7 digits, e.g., 1234567
     Third from the left (3 above) is the check digit.
 
